@@ -1,0 +1,14 @@
+bkup
+dataset
+experiment
+gais-ime-char
+licences
+old_ver
+licence.sh
+.DS_Store
+data/*
+src/dist
+src/server.dist
+src/server.onefile-build
+src/server.build
+src/__pycache__
