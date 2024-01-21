@@ -1,7 +1,7 @@
 from datetime import datetime
 
 class DecodeHistory:
-    def __init__(self, maxsize=10, tolerate_second=30):
+    def __init__(self, maxsize=10, tolerate_second=2):
         self.historyQue = []
         self.size = 0
         self.max_size = maxsize
