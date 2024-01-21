@@ -1,0 +1,9 @@
+boltons==23.0.0
+cryptography==41.0.3
+dill==0.3.7
+fastapi==0.109.0
+jieba==0.42.1
+kenlm==0.2.0
+pygtrie==2.5.0
+sentry_sdk==1.30.0
+uvicorn==0.26.0
